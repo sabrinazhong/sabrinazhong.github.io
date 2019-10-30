@@ -42,3 +42,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.circular--square {
+  border-radius: 50%;
+}
