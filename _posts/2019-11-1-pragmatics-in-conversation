@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Hey, it is hot here..."
+date: 2019-11-01
+---
+
+June 11, 2019, the weather in San Francisco soared to 97 degrees Fahrenheit. It was hot. I was chilling on the couch
+(not really, not chill at all) after I got home from work. It was hot and stuffy in the living. I wondered whether the voice
+assistant connected to the thermostat at home could help me to cooler the space.
+
+Hey, it is hot here.
+
+I was expecting that Google could understand it and adjust the temperature for me.
+
+It’s not hot right now in San Francisco. It’s 27 degrees*.
+
+*27 degrees Celsius is around 81 degrees Fahrenheit.
+
+My immediate thought was, “that’s sassy.” 27 degrees Celsius indoor at 9 pm is very hot to me.
+
+Then, I subconsciously started to think, “what went wrong here?”
+
+I personally think there might be two types of explanation—one is related to ASR (auto speech recognition) and the other one is related to natural language understanding.
+
+It could be possible that the computer recognized my speech as a question rather than a statement, “is it hot here?” or “it is hot here?” with an rising intonation.
+
+Or, the the computer did get the correct input that I said it was hot. However, it failed to understand the pragmatics in the sentence. The Gricean Maxims, purposed by a philosopher, Paul Grice, are four ways to explain how interlocutors in a conversation stay cooperative and achieve effective communication. However, in reality, people don’t usually mean what they say, people don’t usually say what they mean. In the dialogue I had with my voice assistant, “it is hot here” flouts the maxim of relation and the maxim of manner.
+
+Another possible issue related to the computational understanding of natural language here is that it fails to understand what I mean by “here.” I was definitely not talking about the weather in San Francisco. Instead, I was referring to the room temperature in my house. The thermostat showed it was 90 degrees Fahrenheit :(
+
+In the short future, I hope my voice assistant can understand what I really mean. Maybe we can have a conversation like this:
+
+Hey Google, it is hot here.
+Totally, is there anything I can do for you?
+Turn on the AC./Set the room temperature at 75.
+
+I hope that my voice assistant can agree with me rather than telling me they does not think so. To be fair, 81 degrees Fahrenheit is definitely not cool.
+
+However, if one day it is “smart” enough, the voice assistant may be able to propose a solution in return.
+
+Hey Google, it is hot here.
+Ya, it seems the windows are closed. Do you want me to open the window for you?
+
+The home automation system detects that all the window in my house are closed. It might (or might not) be windy or cooler outside, but opening the windows could be a solution.
+
+Or, the home automation system detects that I usually turn on the AC when the room temperature is at that level. Then, they figures out that I am probably asking them to turn it on for me.
+
+Hey Google, it is hot here.
+Ya, it seems the AC is off. Do you want me to turn it on?
+
