@@ -8,7 +8,7 @@ June 11, 2019, the weather in San Francisco soared to 97 degrees Fahrenheit. It 
 (not really, not chill at all) after I got home from work. It was hot and stuffy in the living room. I wondered whether
 the voice assistant connected to the thermostat at home could help me to cooler the space.
 
-<i>"Hey, it is hot here."</i>
+&ndash<i>"Hey, it is hot here."</i>
 
 I was expecting that they could understand it and adjust the temperature for me. However, my voice assistant told me,
 
