@@ -41,15 +41,15 @@ However, in the short future, I hope my voice assistant can understand what I re
 and I can have a conversation like this:
 
 <i>"Hey, it is hot here."</i><br>
-<i>"Totally, is there anything I can do for you?"</i>
-<i>"Turn on the AC." or "Set the room temperature at 75."</i>
+<i>"Totally, is there anything I can do for you?"</i><br>
+<i>"Turn on the AC."</i> or <i>"Set the room temperature at 75."</i>
 
 First, I hope that my voice assistant can agree with me rather than telling me they does not think so. To be fair,
 81 degrees Fahrenheit is definitely not cool.
 
 However, if it is “smart” enough, the voice assistant may be able to propose a solution in return.
 
-<i>"Hey, it is hot here."</i>
+<i>"Hey, it is hot here."</i><br>
 <i>"Ya, it seems the windows are closed. Do you want me to open the window for you?"</i>
 
 The home automation system detects that all the window in my house are closed. It might (or might not) be windy or cooler
@@ -58,7 +58,7 @@ outside, but opening the windows seems like a reasonable solution.
 Or, the home automation system detects that I usually turn on the AC when the room temperature is at that level. Then,
 they figures out that I am probably asking them to turn it on for me.
 
-<i>"Hey, it is hot here."</i>
+<i>"Hey, it is hot here."</i><br>
 <i>"Ya, it seems the AC is off. Do you want me to turn it on?"</i>
 
 Well, you may say "why not just tell your voice assistant to open the windows or set the room temperature? Isn't that
