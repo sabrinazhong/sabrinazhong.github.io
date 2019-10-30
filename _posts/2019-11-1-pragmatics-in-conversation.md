@@ -8,7 +8,7 @@ June 11, 2019, the weather in San Francisco soared to 97 degrees Fahrenheit. It 
 (not really, not chill at all) after I got home from work. It was hot and stuffy in the living room. I wondered whether
 the voice assistant connected to the thermostat at home could help me to cooler the space.
 
-&ndash<i>"Hey, it is hot here."</i>
+-- <i>"Hey, it is hot here."</i>
 
 I was expecting that they could understand it and adjust the temperature for me. However, my voice assistant told me,
 
@@ -42,7 +42,7 @@ and I can have a conversation like this:
 
 <i>"Hey, it is hot here."</i><br>
 <i>"Totally, is there anything I can do for you?"</i><br>
-<i>"Turn on the AC."</i> or <i>"Set the room temperature at 75."</i>
+<i>"Turn on the AC."</i> OR <i>"Set the room temperature at 75."</i>
 
 First, I hope that my voice assistant can agree with me rather than telling me they does not think so. To be fair,
 81 degrees Fahrenheit is definitely not cool.
@@ -50,7 +50,7 @@ First, I hope that my voice assistant can agree with me rather than telling me t
 However, if it is “smart” enough, the voice assistant may be able to propose a solution in return.
 
 <i>"Hey, it is hot here."</i><br>
-<i>"Ya, it seems the windows are closed. Do you want me to open the window for you?"</i>
+<i>Do you want me to open the window for you?"</i><br>OR<br><i>"Ya, it seems the windows are closed. Do you want me to open the window for you?"</i>
 
 The home automation system detects that all the window in my house are closed. It might (or might not) be windy or cooler
 outside, but opening the windows seems like a reasonable solution.
@@ -59,7 +59,7 @@ Or, the home automation system detects that I usually turn on the AC when the ro
 they figures out that I am probably asking them to turn it on for me.
 
 <i>"Hey, it is hot here."</i><br>
-<i>"Ya, it seems the AC is off. Do you want me to turn it on?"</i>
+<i>Do you want me to turn it on?"</i><br>OR<br><i>"Ya, it seems the AC is off. Do you want me to turn it on?"</i>
 
 Well, you may say "why not just tell your voice assistant to open the windows or set the room temperature? Isn't that
 easier?" Of course, that definitely is going to work. However, as I mentioned above, people don't usually say what they
