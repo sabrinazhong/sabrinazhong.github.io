@@ -8,7 +8,7 @@ June 11, 2019, the weather in San Francisco soared to 97 degrees Fahrenheit. It 
 (not really, not chill at all) after I got home from work. It was hot and stuffy in the living room. I wondered whether
 the voice assistant connected to the thermostat at home could help me to cooler the space.
 
-"Hey, it is hot here."
+<i>"Hey, it is hot here."<i/>
 
 I was expecting that they could understand it and adjust the temperature for me. However, my voice assistant told me,
 
@@ -40,17 +40,17 @@ many other people!
 However, in the short future, I hope my voice assistant can understand what I really mean. Maybe, one day, my voice assistant
 and I can have a conversation like this:
 
-- "Hey, it is hot here."
-- "Totally, is there anything I can do for you?"
-- "Turn on the AC." or "Set the room temperature at 75."
+"Hey, it is hot here."
+"Totally, is there anything I can do for you?"
+"Turn on the AC." or "Set the room temperature at 75."
 
 First, I hope that my voice assistant can agree with me rather than telling me they does not think so. To be fair,
 81 degrees Fahrenheit is definitely not cool.
 
 However, if it is “smart” enough, the voice assistant may be able to propose a solution in return.
 
-- "Hey, it is hot here."
-- "Ya, it seems the windows are closed. Do you want me to open the window for you?"
+"Hey, it is hot here."
+"Ya, it seems the windows are closed. Do you want me to open the window for you?"
 
 The home automation system detects that all the window in my house are closed. It might (or might not) be windy or cooler
 outside, but opening the windows seems like a reasonable solution.
@@ -58,8 +58,8 @@ outside, but opening the windows seems like a reasonable solution.
 Or, the home automation system detects that I usually turn on the AC when the room temperature is at that level. Then,
 they figures out that I am probably asking them to turn it on for me.
 
-- "Hey, it is hot here."
-- "Ya, it seems the AC is off. Do you want me to turn it on?"
+"Hey, it is hot here."
+"Ya, it seems the AC is off. Do you want me to turn it on?"
 
 Well, you may say "why not just tell your voice assistant to open the windows or set the room temperature? Isn't that
 easier?" Of course, that definitely is going to work. However, as I mentioned above, people don't usually say what they
