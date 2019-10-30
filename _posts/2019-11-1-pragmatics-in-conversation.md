@@ -10,13 +10,11 @@ the voice assistant connected to the thermostat at home could help me to cooler 
 
 "Hey, it is hot here."
 
-I was expecting that they could understand it and adjust the temperature for me.
+I was expecting that they could understand it and adjust the temperature for me. However, my voice assistant told me,
 
-"It’s not hot right now in San Francisco. It’s 27 degrees*."
+"It’s not hot right now in San Francisco. It’s 81 degrees."
 
-*27 degrees Celsius is around 81 degrees Fahrenheit.
-
-My immediate thought was, “that’s sassy... 27 degrees Celsius indoor at 9 pm is very hot to me." Then, I, as a linguist,
+My immediate thought was, “that’s sassy... 81 degrees Fahrenheit indoor at 9 pm is very hot to me." Then, I, as a linguist,
 subconsciously started to think, “what went wrong here?”
 
 I personally think there might be two types of explanation--one is related to ASR (auto speech recognition) and the other
@@ -42,17 +40,17 @@ many other people!
 However, in the short future, I hope my voice assistant can understand what I really mean. Maybe, one day, my voice assistant
 and I can have a conversation like this:
 
-"Hey, it is hot here."
-"Totally, is there anything I can do for you?"
-"Turn on the AC." or "Set the room temperature at 75."
+- "Hey, it is hot here."
+- "Totally, is there anything I can do for you?"
+- "Turn on the AC." or "Set the room temperature at 75."
 
 First, I hope that my voice assistant can agree with me rather than telling me they does not think so. To be fair,
 81 degrees Fahrenheit is definitely not cool.
 
 However, if it is “smart” enough, the voice assistant may be able to propose a solution in return.
 
-"Hey, it is hot here."
-"Ya, it seems the windows are closed. Do you want me to open the window for you?"
+- "Hey, it is hot here."
+- "Ya, it seems the windows are closed. Do you want me to open the window for you?"
 
 The home automation system detects that all the window in my house are closed. It might (or might not) be windy or cooler
 outside, but opening the windows seems like a reasonable solution.
@@ -60,11 +58,9 @@ outside, but opening the windows seems like a reasonable solution.
 Or, the home automation system detects that I usually turn on the AC when the room temperature is at that level. Then,
 they figures out that I am probably asking them to turn it on for me.
 
-"Hey, it is hot here."
-"Ya, it seems the AC is off. Do you want me to turn it on?"
+- "Hey, it is hot here."
+- "Ya, it seems the AC is off. Do you want me to turn it on?"
 
 Well, you may say "why not just tell your voice assistant to open the windows or set the room temperature? Isn't that
 easier?" Of course, that definitely is going to work. However, as I mentioned above, people don't usually say what they
-mean. Or in the future, we don't threat voice user interfaces as just robots or computers anymore--they will more be like
-our personal assistants. Moreover, if human always just give direct commands to their voice user interfaces, what's all the fun
-about playing with language?
+mean. You certainly don't want the voice assistant to call 911, when someone says, "I'm dying" or "I'm starving" unless there is a real emergency. Or in the future, we don't just treat voice user interfaces as robots or computers only--they will more be like our personal assistants. Moreover, if human always just give direct commands to their voice user interfaces, what's all the fun about playing with language?
