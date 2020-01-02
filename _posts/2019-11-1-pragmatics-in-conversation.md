@@ -64,7 +64,3 @@ they figures out that I am probably asking them to turn it on for me.
 -- <i>Do you want me to turn it on?"</i><br>
 or<br>
 -- <i>"Ya, it seems the AC is off. Do you want me to turn it on?"</i>
-
-Well, you may say "why not just tell your voice assistant to open the windows or set the room temperature? Isn't that
-easier?" Of course, that definitely is going to work. However, as I mentioned above, people don't usually say what they
-mean. You certainly don't want the voice assistant to call 911, when someone says, "I'm dying" or "I'm starving" unless there is a real emergency. Or in the future, we don't just treat voice user interfaces as robots or computers only--they will more be like our personal assistants. Moreover, if human always just give direct commands to their voice user interfaces, what's all the fun about playing with language?
