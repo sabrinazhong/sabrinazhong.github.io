@@ -55,9 +55,9 @@ ul.posts li {
 
 .sidebar {
   position: fixed;
-  left: 50px;
+  left: 75px;
   top: 50px;
-  width: 90px;
+  width: 100px;
   font-family: Helvetica, sans-serif;
   a {
     text-decoration: none;
