@@ -59,7 +59,7 @@ ul.posts li {
   top: 75px;
   width: 150px;
   font-family: Helvetica, sans-serif;
-  color: #E4BC08;
+  background: #E4BC08;
   a {
     text-decoration: none;
   }
