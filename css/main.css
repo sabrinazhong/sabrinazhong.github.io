@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #4863A0;
 }
@@ -57,9 +57,8 @@ ul.posts li {
   position: fixed;
   left: 75px;
   top: 75px;
-  width: 150px;
+  width: 200px;
   font-family: Helvetica, sans-serif;
-  background: #E4BC08;
   a {
     text-decoration: none;
   }
