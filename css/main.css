@@ -55,7 +55,7 @@ ul.posts li {
 
 .sidebar {
   position: fixed;
-  left: 70px;
+  left: 65px;
   top: 75px;
   width: 200px;
   font-family: Helvetica, sans-serif;
@@ -63,6 +63,7 @@ ul.posts li {
     text-decoration: none;
   }
   img {
+    display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 0 3px;
