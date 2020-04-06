@@ -90,3 +90,8 @@ ul.posts li {
     padding: 0 3px;
     border: 0;
   }
+    
+.topnav {
+  background-color: #F3F7F9;
+  overflow: hidden;
+}
