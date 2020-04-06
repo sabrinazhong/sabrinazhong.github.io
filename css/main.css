@@ -79,7 +79,7 @@ ul.posts li {
 .sidebar {
   position: fixed;
   left: 65px;
-  top: 75px;
+  top: 60px;
   width: 200px;
   font-family: Helvetica, sans-serif;
   a {
