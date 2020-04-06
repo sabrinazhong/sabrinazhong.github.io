@@ -99,12 +99,13 @@ ul.posts li {
   position: fixed; 
   top: 0;
   width: 100%;
+  font-family: Helvetica, sans-serif;
 }
 
 .navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #F3F7F9;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
