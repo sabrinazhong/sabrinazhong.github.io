@@ -39,6 +39,11 @@ h4 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
+h5 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 0.7em; 
+    color: #4863A0;
+}
 p {
     font-size: 1.0em;
     line-height: 1.4em;
