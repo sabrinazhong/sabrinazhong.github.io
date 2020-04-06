@@ -92,8 +92,8 @@ ul.posts li {
   }
 }
 
-ul {
-  position: fixed;
-  top: 0;
-  width: 100%;
+.topnav {
+    position: fixed;
+    width: 50%;
+    background-color: #F3F7F9;
 }
