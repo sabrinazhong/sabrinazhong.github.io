@@ -103,7 +103,7 @@ ul.posts li {
 }
 
 .navbar a {
-  float: center;
+  float: left;
   display: block;
   color: #4863A0;
   text-align: center;
