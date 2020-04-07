@@ -78,7 +78,7 @@ ul.posts li {
 
 .sidebar {
   position: fixed;
-  background-color: #FFFFFF;
+  background-color: #F3F7F9;
   left: 65px;
   top: 60px;
   width: 200px;
@@ -96,7 +96,7 @@ ul.posts li {
 
 .navbar {
   overflow: hidden;
-  background-color: #FFFFFF;
+  background-color: #F3F7F9;
   position: fixed; 
   top: 0;
   width: 100%;
