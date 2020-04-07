@@ -1,6 +1,6 @@
 body {
     margin: 60px auto 40px 350px;
-    width: 60%;
+    width: 55%;
     background-color: #F3F7F9;
 }
 nav ul, footer ul {
@@ -78,6 +78,7 @@ ul.posts li {
 
 .sidebar {
   position: fixed;
+  background-color: #FFFFFF;
   left: 65px;
   top: 60px;
   width: 200px;
@@ -95,7 +96,7 @@ ul.posts li {
 
 .navbar {
   overflow: hidden;
-  background-color: #F3F7F9;
+  background-color: #FFFFFF;
   position: fixed; 
   top: 0;
   width: 100%;
